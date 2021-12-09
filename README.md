@@ -10,6 +10,8 @@ Bash        20 mins         ██▓░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+[![wakatime](https://wakatime.com/badge/user/a5bcd745-705e-4552-9d33-c5d7343208d5.svg)](https://wakatime.com/@a5bcd745-705e-4552-9d33-c5d7343208d5)
+
 <!--
 **mukhametdinovigor/mukhametdinovigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
